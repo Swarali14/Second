@@ -15,6 +15,7 @@ namespace Hello_Welcome
         static void Main(string[] args)
         {
             new Program().sayHello();   
+            new Class1().printWelcome();
         }
     }
 }
