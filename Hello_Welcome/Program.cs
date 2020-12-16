@@ -14,7 +14,7 @@ namespace Hello_Welcome
         }
         static void Main(string[] args)
         {
-            new Program().sayHello();   
+            new Program().sayHello(); 
         }
     }
 }
