@@ -1,0 +1,14 @@
+namespace Hello_Welcome
+{
+    partial class Two
+    {
+        public void printWelcome()
+        {
+            Console.WriteLine("Welcome");
+        }
+        static void Main(string[] args)
+        {
+            new Program().sayHello();   
+        }
+    }
+}
